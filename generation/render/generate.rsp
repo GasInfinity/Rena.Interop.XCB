@@ -3,7 +3,7 @@
 --file
 /usr/include/xcb/render.h
 --libraryPath
-xcb
+xcb-render
 --namespace
 Rena.Interop.Xcb
 --methodClassName

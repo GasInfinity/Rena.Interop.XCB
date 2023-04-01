@@ -3,7 +3,7 @@
 --file
 /usr/include/xcb/xfixes.h
 --libraryPath
-xcb
+xcb-xfixes
 --namespace
 Rena.Interop.Xcb
 --methodClassName

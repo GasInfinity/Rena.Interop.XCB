@@ -3,7 +3,7 @@
 --file
 /usr/include/xcb/shape.h
 --libraryPath
-xcb
+xcb-shape
 --namespace
 Rena.Interop.Xcb
 --methodClassName
