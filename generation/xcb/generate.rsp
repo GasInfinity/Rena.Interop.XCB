@@ -1,0 +1,14 @@
+@../config.rsp
+
+--file
+/usr/include/xcb/xcb.h
+--libraryPath
+xcb
+--namespace
+Rena.Interop.Xcb
+--methodClassName
+Xcb
+--prefixStrip
+xcb_
+--output
+../../Rena.Interop.Xcb/Xcb/
