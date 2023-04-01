@@ -9,7 +9,7 @@
 
   <PropertyGroup Label="Nuget">
     <PackageId>Rena.Interop.Xcb</PackageId>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Authors>GasInfinity</Authors>
     <Description>Raw xcb bindings for dotnet</Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
