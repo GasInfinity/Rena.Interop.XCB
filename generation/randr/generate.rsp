@@ -3,7 +3,7 @@
 --file
 /usr/include/xcb/randr.h
 --libraryPath
-xcb
+xcb-randr
 --namespace
 Rena.Interop.Xcb
 --methodClassName
