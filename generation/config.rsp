@@ -12,7 +12,6 @@
 --config
 latest-codegen
 exclude-com-proxies
-exclude-empty-records
 exclude-enum-operators
 generate-aggressive-inlining
 generate-cpp-attributes
@@ -27,3 +26,5 @@ generate-vtbl-index-attribute
 log-potential-typedef-remappings
 multi-file
 trimmable-vtbls
+--language
+c
