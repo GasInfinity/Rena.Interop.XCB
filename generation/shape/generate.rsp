@@ -5,10 +5,10 @@
 --libraryPath
 xcb-shape
 --namespace
-Rena.Interop.Xcb
+Rena.Interop.XCB
 --methodClassName
-XcbShape
+XCBShape
 --prefixStrip
 xcb_shape_
 --output
-../../Rena.Interop.Xcb/Shape/
+../../Rena.Interop.XCB/Shape/

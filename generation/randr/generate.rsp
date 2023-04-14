@@ -5,10 +5,10 @@
 --libraryPath
 xcb-randr
 --namespace
-Rena.Interop.Xcb
+Rena.Interop.XCB
 --methodClassName
-XcbRandr
+XCBRandr
 --prefixStrip
 xcb_randr_
 --output
-../../Rena.Interop.Xcb/Randr/
+../../Rena.Interop.XCB/Randr/

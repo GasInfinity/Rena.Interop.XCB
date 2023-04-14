@@ -5,10 +5,10 @@
 --libraryPath
 xcb-xinput
 --namespace
-Rena.Interop.Xcb
+Rena.Interop.XCB
 --methodClassName
-XcbInput
+XCBInput
 --prefixStrip
 xcb_input_
 --output
-../../Rena.Interop.Xcb/XInput
+../../Rena.Interop.XCB/XInput

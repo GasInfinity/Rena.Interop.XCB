@@ -5,10 +5,10 @@
 --libraryPath
 xcb-xfixes
 --namespace
-Rena.Interop.Xcb
+Rena.Interop.XCB
 --methodClassName
-XcbXFixes
+XCBXFixes
 --prefixStrip
 xcb_xfixes_
 --output
-../../Rena.Interop.Xcb/XFixes/
+../../Rena.Interop.XCB/XFixes/

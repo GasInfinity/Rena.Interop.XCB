@@ -1,0 +1,10 @@
+namespace Rena.Interop.XCB;
+
+public unsafe partial struct xcb_xkb_sa_switch_screen_iterator_t
+{
+    public xcb_xkb_sa_switch_screen_t* data;
+
+    public int rem;
+
+    public int index;
+}

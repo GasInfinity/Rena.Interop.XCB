@@ -5,10 +5,10 @@
 --libraryPath
 xcb-xkb
 --namespace
-Rena.Interop.Xcb
+Rena.Interop.XCB
 --methodClassName
-XcbXkb
+XCBXKB
 --prefixStrip
 xcb_xkb_
 --output
-../../Rena.Interop.Xcb/Xkb
+../../Rena.Interop.XCB/XKB

@@ -1,0 +1,11 @@
+namespace Rena.Interop.XCB;
+
+[NativeTypeName("unsigned int")]
+public enum xcb_xkb_per_client_flag_t : uint
+{
+    XCB_XKB_PER_CLIENT_FLAG_DETECTABLE_AUTO_REPEAT = 1,
+    XCB_XKB_PER_CLIENT_FLAG_GRABS_USE_XKB_STATE = 2,
+    XCB_XKB_PER_CLIENT_FLAG_AUTO_RESET_CONTROLS = 4,
+    XCB_XKB_PER_CLIENT_FLAG_LOOKUP_STATE_WHEN_GRABBED = 8,
+    XCB_XKB_PER_CLIENT_FLAG_SEND_EVENT_USES_XKB_STATE = 16,
+}

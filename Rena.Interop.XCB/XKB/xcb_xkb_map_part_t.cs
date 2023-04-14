@@ -1,0 +1,14 @@
+namespace Rena.Interop.XCB;
+
+[NativeTypeName("unsigned int")]
+public enum xcb_xkb_map_part_t : uint
+{
+    XCB_XKB_MAP_PART_KEY_TYPES = 1,
+    XCB_XKB_MAP_PART_KEY_SYMS = 2,
+    XCB_XKB_MAP_PART_MODIFIER_MAP = 4,
+    XCB_XKB_MAP_PART_EXPLICIT_COMPONENTS = 8,
+    XCB_XKB_MAP_PART_KEY_ACTIONS = 16,
+    XCB_XKB_MAP_PART_KEY_BEHAVIORS = 32,
+    XCB_XKB_MAP_PART_VIRTUAL_MODS = 64,
+    XCB_XKB_MAP_PART_VIRTUAL_MOD_MAP = 128,
+}

@@ -5,10 +5,10 @@
 --libraryPath
 xcb-render
 --namespace
-Rena.Interop.Xcb
+Rena.Interop.XCB
 --methodClassName
-XcbRender
+XCBRender
 --prefixStrip
 xcb_render_
 --output
-../../Rena.Interop.Xcb/Render/
+../../Rena.Interop.XCB/Render/
